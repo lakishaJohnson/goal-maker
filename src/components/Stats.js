@@ -5,7 +5,6 @@ class Stats extends React.Component {
     return (
       <div className="stats">
         <div>Total Completed Lists: 0</div>
-        <div>Current Items Complete: 0%</div>
       </div>
     );
   }
